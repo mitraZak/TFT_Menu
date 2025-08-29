@@ -1,5 +1,5 @@
-# TFT_MenuThis 
-repository contains a menu system with bitmap-based display screens, shown on a TFT ILI9341 and navigated through a 4x4 matrix keypad. The bitmaps are converted and embedded directly into C code.
+# TFT_Menu
+This repository contains a menu system with bitmap-based display screens, shown on a TFT ILI9341 and navigated through a 4x4 matrix keypad. The bitmaps are converted and embedded directly into C code.
 
 # System Architecture
 
