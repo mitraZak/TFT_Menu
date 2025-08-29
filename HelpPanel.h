@@ -1,0 +1,2 @@
+
+void handleHelpSecondPanelsInput(char incomingChar)
